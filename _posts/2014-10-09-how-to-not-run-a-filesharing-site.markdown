@@ -41,7 +41,7 @@ After some research I was able to find the places they used to announce new room
 
 This time knowing of every room they'd use in advance, I had quickly removed every last sliver of the content from Volafile. They tried to create new rooms for sharing their content for multiple days, but I was prepared this time and they had no chance to establish anything that lasted even a few hours.
 
-But the damange to Volafile's reputation was already done and the news reports started pouring in.
+But the damage to Volafile's reputation was already done and the news reports started pouring in.
 
 What went wrong?
 ----------------
