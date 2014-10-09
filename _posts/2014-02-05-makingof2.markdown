@@ -7,7 +7,7 @@ categories: volafile
 
 In my [previous post](/2014/02/04/makingof/) I told the story of 
 how the idea of Volafile came to life. This post depicts how, 
-7 months later, I started working on what was someday to 
+seven months later, I started working on what was someday to 
 become Volafile.
 
 ####Someday, seven months ago
