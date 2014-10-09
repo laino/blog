@@ -9,7 +9,7 @@ I am the creator of Volafile, a filesharing site that is currently receiving a
 broad range of undesirable press coverage on 
 [Business Insider](http://www.businessinsider.com/internet-marketplace-for-hacked-photos-of-naked-celebrities-2014-10), 
 [Daily Mail](http://www.dailymail.co.uk/news/article-2785871/Photos-unreleased-potentially-massive-collection-stolen-celebrity-nudes-bought-online-350.html),
-[Bild](http://www.bild.de/unterhaltung/leute/google/droht-millionen-klage-wegen-nackt-foto-skandal-37996638.bild.html) (German) and more.
+[Bild](http://www.bild.de/unterhaltung/leute/promi/nackt-fotos-fuer-350-dollar-im-internet-38081392.bild.html) (German) and more.
 
 *__Disclaimer__: I responded to the incident with all possible speed that was allowed by my resources. But sometimes the resources (mostly time) one can pour into planning and administration are not enough. That is what this article is about.*
 
