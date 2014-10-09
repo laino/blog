@@ -26,7 +26,7 @@ To guide them and introduce some consistency (users hate getting banned for rand
 And that's where the problems started. On Volafile we are already accustomed to dealing with problematic rooms, though not on the scale we experienced recently. Earlier this year I instructed moderators that unless the whole room is full of problematic content, to just remove the offending files, ban the uploader, but the let the rest of the room alone. I didn't want to ruin everyone's experience just because there was one foul apple lurking among them.
 
 That didn't work out too well when the 'The Fappening' rooms started. Uploaders of obviously illegal content got banned and the files deleted, uploading to some rooms got disabled. 
-But that left the chat of the rooms intact which users used to re-organize themselves in new rooms. New rooms got created faster than any mod could identify illegal content. On top of that some of the mods weren't even aware of the illegality of the content. I can't blame them for not knowing the laws of countries they don't live in themselves.
+But that left the chat of the rooms intact which users used to re-organize themselves in new rooms. New rooms got created faster than any moderator could identify illegal content. On top of that some of the moderators weren't even aware of the illegality of the content. I can't blame them for not knowing the laws of countries they don't live in themselves.
 
 Meanwhile I just launched head first into a part-time job and the first semester of university (Yay!) was starting. You could say I was busy and pretty much distracted.
 
