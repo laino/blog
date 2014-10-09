@@ -7,7 +7,7 @@ categories: volafile
 
 I am the creator of Volafile, a filesharing site that is currently receiving a 
 broad range of undesirable press coverage on 
-[Businness Insider](http://www.businessinsider.com/internet-marketplace-for-hacked-photos-of-naked-celebrities-2014-10), 
+[Business Insider](http://www.businessinsider.com/internet-marketplace-for-hacked-photos-of-naked-celebrities-2014-10), 
 [Daily Mail](http://www.dailymail.co.uk/news/article-2785871/Photos-unreleased-potentially-massive-collection-stolen-celebrity-nudes-bought-online-350.html),
 [Bild](http://www.bild.de/unterhaltung/leute/google/droht-millionen-klage-wegen-nackt-foto-skandal-37996638.bild.html) (German) and more.
 
@@ -30,7 +30,7 @@ But that left the chat of the rooms intact which users used to re-organize thems
 
 Meanwhile I just launched head first into a part-time job and the first semester of university (Yay!) was starting. You could say I was busy and pretty much distracted.
 
-By now I was also receiving e-mail from concerned users alerting me of some rooms and I fully removed the offending rooms as they got reported, but treated them as isolated incidents. I didn't quite grasp the scale of the situation until James Cook from Businness Insider contacted me and asked me to comment on how I deal with these rooms on Volafile. 
+By now I was also receiving e-mail from concerned users alerting me of some rooms and I fully removed the offending rooms as they got reported, but treated them as isolated incidents. I didn't quite grasp the scale of the situation until James Cook from Business Insider contacted me and asked me to comment on how I deal with these rooms on Volafile. 
 
 *Huh?* 
 
