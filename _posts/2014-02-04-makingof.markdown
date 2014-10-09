@@ -5,11 +5,8 @@ date:   2014-02-04 12:00
 categories: volafile
 ---
 
-###Lessons learned while creating a one-page application for the modern web. Part one.
-
-Creating Volafile.io has been a long journey. The repository now boasts almost a
-thousand commits over the course of seven months and
-Volafile's first prototype even dates another year back, which is where we'll start.
+Creating Volafile.io has been a long journey. The Git repository now boasts almost a
+thousand commits over the course of seven months. Volafile's first prototype even dates another year back, which is where we'll start.
 
 ####3rd of January in 2013
 
@@ -39,6 +36,6 @@ Then I took it down for the night.
 
 At this point I felt like I was on to something, like I had to pursue this idea further. I didn't bring the page back up the next day, or the day after that.
 It took me another seven months and learning about node.js to start working on my idea again. This time it should be able to handle hundreds of users, scale 
-horizontally and be fast & modern while able to run on cheap hardware. 
+horizontally and be fast & modern while able to run on cheap (yes, I'm like that) hardware. 
 
-To be continued in part 2.
+The creation of what is Volafile today will be covered in my next post.

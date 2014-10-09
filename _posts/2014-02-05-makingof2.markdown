@@ -5,8 +5,6 @@ date:   2014-02-05 12:00
 categories: volafile
 ---
 
-###Lessons learned while creating a one-page application for the modern web. Part two.
-
 In my [previous post](/2014/02/04/makingof/) I told the story of 
 how the idea of Volafile came to life. This post depicts how, 
 7 months later, I started working on what was someday to 
@@ -24,24 +22,21 @@ not?
 
 *Node.js* was quickly chosen as the tool for the job, it was still new and
 hip after all. And of course with *node.js*, there had to be *mongodb*... Yes. And
-because we'll do a lot of IPC, even across multiple servers (we want this to
-scale after all, don't we?), we use *redis* solely as a publish / subscribe server. 
-Doesn't mongodb come with a distributed filesystem, *GridFS*? Cool. Why don't we use that too then.
+because we'll do a lot of IPC, even across multiple servers, we use *redis* solely as a publish / subscribe server. Doesn't mongodb come with a distributed filesystem, *GridFS*? Cool. Why don't we use that too then.
 
 For serving static files and to do some routing of requests I added *nginx* to
 the mix and ready to go was the first version of volafile.
 
-And so the initial technology stack was decided on. Little did I know that most
-of these were poor choices for the job.
+Little did I know that most of these were poor choices for the job.
 
-As expected, it performed poorly. The first and pretty obvious problem was the
+As (not) expected, it performed poorly. The first and pretty obvious problem was the
 poor performance of GridFS. I was barely able to write more than 5mb/s into
 it, reads weren't really fast either. After looking into hundreds of different
 kinds of 'Cloud Filesystems', 'Distributed Object Storages' and the like,
 I decided to roll my own solution. What I came up with was able to use the drive
 throughput of my servers to the fullest, while scaling horizontally and being
 written in a few hundred lines of node.js. Eventually I completely eliminated 
-the dependency on mongodb (I just read about why it was bad on HN anyways) and
+the dependency on mongodb (I just read about why it was supposed to be *bad* on HN anyways) and
 moved the whole database into redis.
 
 So Volafile was now running on a nginx, node.js, socket.io and redis stack,
