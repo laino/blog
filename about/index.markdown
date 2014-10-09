@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "About Me"
+date:   2014-10-09 12:00
+categories: about
+---
+
+<p class="large">
+I'm a <b>student</b> from Germany currently studying <b>Business informatics</b> at <a href="http://tu-berlin.de">TU Berlin</a>. I'm also a programmer and software engineer. I create services like <a href="https://volafile.io">Volafile.io</a> and am the author of some <a href="https://github.com/laino">other things</a>.
+</p>

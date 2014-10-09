@@ -22,7 +22,13 @@ body {
     background-color: $background-color;
 }
 
+b, strong {
+    font-weight: 700;
+}
 
+p.large {
+    font-size: 1.4em;
+}
 
 /**
  * Set `margin-bottom` to maintain vertycal rhythm
