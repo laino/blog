@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to not run a Filesharing Site"
+title:  "Volafile: How to not run a Filesharing Site"
 date:   2014-10-09 13:12
 categories: volafile
 ---
