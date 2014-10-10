@@ -2,6 +2,7 @@
 layout: page
 title:  "About Me"
 date:   2014-10-09 12:00
+description: I'm a student from Germany currently studying business informatics at TU Berlin.
 categories: about
 ---
 
