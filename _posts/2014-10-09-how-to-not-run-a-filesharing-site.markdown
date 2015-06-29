@@ -6,18 +6,16 @@ categories: volafile
 ---
 
 I am the creator of Volafile, a filesharing site that is currently receiving a 
-broad range of undesirable press coverage on 
-[Business Insider](http://www.businessinsider.com/internet-marketplace-for-hacked-photos-of-naked-celebrities-2014-10), Daily Mail, CNN, Sky News and more.
+broad range of undesirable press coverage on [Business Insider](http://www.businessinsider.com/internet-marketplace-for-hacked-photos-of-naked-celebrities-2014-10), Daily Mail, CNN, Sky News and more.
 
 *__Disclaimer__: I responded to the incident with all possible speed that was allowed by my resources. But sometimes the resources (mostly time) one can pour into planning and administration are not enough. That is what this article is about.*
 
-As Volafile is just a hobby project of mine, I'm now seriously considering to just shut it down.
+Volafile is just a hobby project of mine, and recent developments now have me seriously considering to just shut it down.
 But let's not get distracted by that and instead focus on the events that lead up to the current situation and learn our lesson.
 
-I'll start with the way Volafile is organized. As the creator of Volafile I obviously
-have the final say in most things regarding moderation of the site, but I could not manage
-the feat without my awesome team of moderators. Moderators on Volafile are just normal users
-with 'upgraded' accounts. They have the power to ban users and moderate the list of files all by themselves.
+I'll start with the way Volafile is organized. I obviously have the final say in most things regarding moderation of the site,
+but I could not manage the feat without an awesome team of moderators. Moderators on Volafile are essencially ordinary users
+who have earned my trust in some way. They have the power to ban, mute and moderate the list of files at their own discrestion.
 
 To guide them and introduce some consistency (users hate getting banned for random stuff) there's a general rulebook and some internal communication.
 
@@ -26,20 +24,20 @@ And that's where the problems started. On Volafile we are already accustomed to 
 That didn't work out too well when the 'The Fappening' rooms started. Uploaders of obviously illegal content got banned and the files deleted, uploading to some rooms got disabled. 
 But that left the chat of the rooms intact which users used to re-organize themselves in new rooms. New rooms got created faster than any moderator could identify illegal content. On top of that some of the moderators weren't even aware of the illegality of the content. I can't blame them for not knowing the laws of countries they don't live in themselves.
 
-Meanwhile I just launched head first into a part-time job and the first semester of university (Yay!) was starting. You could say I was busy and pretty much distracted.
+Meanwhile I just launched head first into a part-time job and my first semester of university (Yay!) was starting. My new everyday life had me pretty much distracted. I had time
+for the bare minimum to keep Volafile afloat, making sure all bills were paid and enough moderators were available at every time of the day (timezones are something nasty).
 
-By now I was also receiving e-mail from concerned users alerting me of some rooms and I fully removed the offending rooms as they got reported, but treated them as isolated incidents. I didn't quite grasp the scale of the situation until James Cook from Business Insider contacted me and asked me to comment on how I deal with these rooms on Volafile. 
+By now I was also receiving e-mail from concerned users alerting me of some few rooms and I fully removed the offending rooms as they got reported, but made the mistake of treating them as isolated incidents. I didn't quite grasp the scale of the situation until James Cook from Business Insider contacted me and asked me to comment on how I deal with 'The Fappening' rooms on Volafile. 
 
-*Huh?* 
+*Huh?*
 
-Even though I was removing the rooms on a regular basis, the leakers weren't bothered too much by it.
-They changed IPs, moved to new rooms and organized everything on websites outside Volafile. Volafile was about to become a permanent hub for people interested in the illegally obtained pictures. I wasn't planning to let that happen.
+I shifted from passively reacting to reports into purging mode. But even though now I was identifying and removing 'The Fappening' rooms on a regular basis, the leakers weren't bothered too much by it. They changed IPs, moved to new rooms and organized everything on websites outside Volafile.
 
-After some research I was able to find the places they used to announce new rooms for sharing the celebrity pictures on Volafile. They also published a long list of backup rooms they would use once I had deleted their main room again. Which was why - in the past - they were able to switch to new rooms so fast.
+I changed my approach again and after some research I was able to find places they used to announce new rooms for sharing the celebrity pictures on Volafile. They also published a long list of backup rooms they would use once I had deleted their main room again. Which was why - in the past - they were able to switch to new rooms so fast.
 
-This time knowing of every room they'd use in advance, I had quickly removed every last sliver of the content from Volafile. They tried to create new rooms for sharing their content for multiple days, but I was prepared this time and they had no chance to establish anything that lasted even a few hours.
+This time knowing of every room they'd use in advance, it was an easy job to purge them from Volafile completely. They even tried to create new rooms for sharing their content for multiple days, but I was prepared and they had no chance to establish anything that lasted even a few hours.
 
-But the damage to Volafile's reputation was already done and the news reports started pouring in.
+But the damage to Volafile's reputation was already done.
 
 What went wrong?
 ----------------
