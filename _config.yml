@@ -1,6 +1,6 @@
 # Site settings
 title: Nils Kuhnhenn
-email: nils@volafile.io
+email: nils@volafile.org
 description: Nils Kuhnhenn - Creator of Volafile.io, Programmer, Student from Germany
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nilskuhnhenn.com" # the base hostname & protocol for your site
