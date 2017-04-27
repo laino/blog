@@ -42,13 +42,13 @@ But the damage to Volafile's reputation was already done.
 What went wrong?
 ----------------
 
-###Communication
+### Communication
 
 A lack of communication, and in my case absence, left the moderators unsure on how to treat the content.
 Because of my absence I didn't get a good picture of what was actually happening on Volafile, the only ones alerting me about the content wasn't my team of moderators, but concerned users who sent me mail.
 But of course a normal user can't see the bigger picture, which is only something a moderator could do.
 Meanwhile the moderators weren't sure how to treat the content, so they just applied instructions I had given much earlier for unrelated incidents which amounted to nothing in face of the new challenge.
 
-###Time
+### Time
 
 I'm less and less convinced a filehoster is something you can run as a hobby. I lack resources in time and money to actually ensure the integrity of the site. Don't get me wrong. I still believe Volafile did much better than most other filesharing sites that got abused in the recent incident - some still haven't removed the content from their servers. But that doesn't mean I'm satisfied with the speed with which I was able to respond.

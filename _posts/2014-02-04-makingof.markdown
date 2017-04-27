@@ -8,7 +8,7 @@ categories: volafile
 Creating Volafile.io has been a long journey. The Git repository now boasts almost a
 thousand commits over the course of seven months. Volafile's first prototype even dates another year back, which is where we'll start.
 
-####3rd of January in 2013
+#### 3rd of January in 2013
 
 Back then I scrolled through some boards on 4chan, wondering what to do with my time.
 I saw people uploading whole picture collections, one image at a time, over the course 
@@ -26,7 +26,7 @@ Having the idea in my head I immediately started whipping up some prototype usin
 A *Chatango* chat was lazily pasted into the site and some (admittedly ugly) CSS was used to make the page not look completely generic.
 Somewhere past midnight when I was finished, I created a new thread on 4chan to show off the page. People started pouring in only seconds after.
 
-####4th of January, 04:30
+#### 4th of January, 04:30
 
 The site was about to crumble under the load. The python code was written with no respect to performance and full of hacks and 
 things I didn't fully understand. About fifty people were now using the site, uploading & downloading files.
