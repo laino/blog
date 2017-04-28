@@ -31,7 +31,7 @@ moved the whole database into redis.
 So Volafile was now running on a nginx, node.js, socket.io and redis stack,
 most basic trickery working on the client side (albeit with a much simpler, and more ugly UI
 than today) and I felt it was time to put this thing online. I registered the
-domain [volafile.io](http://volafile.io), mentioned it in a few places around
+domain [volafile.org](http://volafile.org), mentioned it in a few places around
 the internet and waited for people to come. They came, and with them the
 performance problems became obvious. They became even worse when Volafile ended
 up being on the frontpage of Hacker News for about 12 hours. Thousands of
