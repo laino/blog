@@ -5,7 +5,7 @@ date:   2014-02-04 12:00
 categories: volafile
 ---
 
-Creating Volafile.io has been a long journey. The Git repository now boasts almost a
+Creating Volafile.org has been a long journey. The Git repository now boasts almost a
 thousand commits over the course of seven months. Volafile's first prototype even dates another year back, which is where we'll start.
 
 #### 3rd of January in 2013
