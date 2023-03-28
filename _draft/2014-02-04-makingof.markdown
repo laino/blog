@@ -5,18 +5,37 @@ date:   2014-02-04 12:00
 categories: volafile
 ---
 
-*Lessons learned while creating a real-time filesharing site for the modern
-web. Part one.*
+Creating Volafile.org has been a long journey. The Git repository now boasts almost a
+thousand commits over the course of seven months. Volafile's first prototype even dates another year back, which is where we'll start.
 
-- Idea & prototype
-- First technology stack, mongo
-- Second stack, nginx, redis
-- Hacker News, socket.io memory leak, engine.io
-- Third stack, final stack
-- What I learned
+#### 3rd of January in 2013
 
-- In depth follow ups:
-    - JavaScript lessons learned & living without jquery
+Back then I scrolled through some boards on 4chan, wondering what to do with my time.
+I saw people uploading whole picture collections, one image at a time, over the course 
+of sometimes multiple hours. Doing so also requires you to type Google's *reCAPTCHA* for every image.
+Which *is* annoying.
+I really liked 4chanX's features to check for new posts every few seconds and append 
+them to the page automatically. And so - somehow - the idea just began building up in my head: How about 
+having them share files on a page that appeared to be some kind of folder in the web.
+The list of files on the right would automatically update as new files got uploaded, giving everyone
+the impression to be looking at a synchronized folder. Files would expire after a short while, so the
+list wouldn't get too full. Where you'd usually expect the directory tree or quick access area, there would 
+be a chat on the left side of the window.
 
-- Stuff to consider for inclusion/mentioning
-    - Github repo stats
+Having the idea in my head I immediately started whipping up some prototype using my rusty python skills and *cherrypy*. 
+A *Chatango* chat was lazily pasted into the site and some (admittedly ugly) CSS was used to make the page not look completely generic.
+Somewhere past midnight when I was finished, I created a new thread on 4chan to show off the page. People started pouring in only seconds after.
+
+#### 4th of January, 04:30
+
+The site was about to crumble under the load. The python code was written with no respect to performance and full of hacks and 
+things I didn't fully understand. About fifty people were now using the site, uploading & downloading files.
+Somehow the crappy user experience didn't seem to bother them, while I was more focused on not making it give in under the load.
+At some point I had to decide to go to sleep. I apologized to everyone and told them I'd bring the site back up with some improvements later.
+Then I took it down for the night.
+
+At this point I felt like I was on to something, like I had to pursue this idea further. I didn't bring the page back up the next day, or the day after that.
+It took me another seven months and learning about node.js to start working on my idea again. This time it should be able to handle hundreds of users, scale 
+horizontally and be fast & modern while able to run on cheap (yes, I'm like that) hardware. 
+
+The creation of what is Volafile today will be covered in my next post.
